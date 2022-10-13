@@ -1,0 +1,15 @@
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\bin\Debug\net6.0\OddEvenNumber.exe
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\bin\Debug\net6.0\OddEvenNumber.deps.json
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\bin\Debug\net6.0\OddEvenNumber.runtimeconfig.json
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\bin\Debug\net6.0\OddEvenNumber.dll
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\bin\Debug\net6.0\OddEvenNumber.pdb
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.csproj.AssemblyReference.cache
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.AssemblyInfoInputs.cache
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.AssemblyInfo.cs
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.csproj.CoreCompileInputs.cache
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.dll
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\refint\OddEvenNumber.dll
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.pdb
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\OddEvenNumber.genruntimeconfig.cache
+F:\Daily\Institut Teknologi Tangerang Selatan-S1\SEMESTER 5\Pemograman .NET\P-NET_1\OddEvenNumber\OddEvenNumber\obj\Debug\net6.0\ref\OddEvenNumber.dll
